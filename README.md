@@ -11,3 +11,8 @@ Ten projekt to rozwijana roadmapa do budowy minimalnego środowiska startowego w
 
 ## 🧱 Struktura projektu
 
+/boot.sh # Skrypt startowy
+/init/ # Własne skrypty init
+/scripts/ # Bash / Python tools
+/ai/ # Proste AI/LLM narzędzia
+/.github/ISSUE_TEMPLATE/
